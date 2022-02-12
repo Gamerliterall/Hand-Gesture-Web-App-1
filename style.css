@@ -1,0 +1,12 @@
+body{
+    background-color: red;
+    text-align: center;
+    color: black; 
+}
+.heading{
+    background-color: cyan;
+    color: black;
+    font-size: 25px;
+    border-radius: 10px;
+    letter-spacing: 5px;
+}
